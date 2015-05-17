@@ -62,7 +62,7 @@ li{
     display: inline-block;
     margin:0.2em;
     padding: 0.5em;
-    color: gold;
+    color: white;
     border-radius: 1em;
     -webkit-border-radius: 1em;
     -moz-border-radius: 1em;
@@ -71,20 +71,21 @@ li{
 }
 
 .append {
-    background-color: blueviolet;
+    background-color:#E6B1F3;
 }
 
 .inner {
-    background-color:orchid;
+    background-color:#D07DE4;
 }
 
 .fragment {
-    background-color: purple;
+    background-color:#A535C0;
 }
 
 .join {
-    background-color: mediumpurple;
+    background-color:#8D15AB;
 }
+
 /*Elements list ends*/
 
 @media screen and (max-width:700px){
